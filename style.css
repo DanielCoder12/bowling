@@ -1,0 +1,22 @@
+.bowling {
+    border-top: 10px solid orange;
+    font-size: 6em;
+}
+
+.bottom-orange {
+    border-top: 7px solid orange;
+}
+
+.under-text {
+    font-size: 1.5em;
+}
+
+.text-under-picture {
+    padding: 1rem 35rem 1rem 35rem;
+}
+
+@media (max-width: 767px) {
+    .text-under-picture {
+        padding: 5rem;
+    }
+}
